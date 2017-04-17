@@ -7,3 +7,12 @@ C:\Users\INF2A-user\Desktop\4040207\4040207\obj\Debug\_4040207.Properties.Resour
 C:\Users\INF2A-user\Desktop\4040207\4040207\obj\Debug\4040207.csproj.GenerateResource.Cache
 C:\Users\INF2A-user\Desktop\4040207\4040207\obj\Debug\4040207.exe
 C:\Users\INF2A-user\Desktop\4040207\4040207\obj\Debug\4040207.pdb
+C:\Users\INF2A-user\Desktop\404207\4040207\bin\Debug\4040207.exe.config
+C:\Users\INF2A-user\Desktop\404207\4040207\obj\Debug\4040207.exe
+C:\Users\INF2A-user\Desktop\404207\4040207\obj\Debug\4040207.pdb
+C:\Users\INF2A-user\Desktop\404207\4040207\bin\Debug\4040207.exe
+C:\Users\INF2A-user\Desktop\404207\4040207\bin\Debug\4040207.pdb
+C:\Users\INF2A-user\Desktop\404207\4040207\obj\Debug\4040207.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\404207\4040207\obj\Debug\_4040207.Form1.resources
+C:\Users\INF2A-user\Desktop\404207\4040207\obj\Debug\_4040207.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\404207\4040207\obj\Debug\4040207.csproj.GenerateResource.Cache
